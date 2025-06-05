@@ -31,3 +31,11 @@ dist/
 
 # Linux
 *.dSYM/
+
+# Dirs
+pong-windows
+pong_linux
+
+# Zips
+pong_linux.zip
+pong_windows.zip
