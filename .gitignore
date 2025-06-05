@@ -1,0 +1,33 @@
+# Comp
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Bin
+pong
+pong.exe
+
+# Backup/temp
+*~
+*.swp
+*.tmp
+
+# VSCode
+.vscode/
+
+# com build files
+build/
+dist/
+
+# log files
+*.log
+
+# MacOS
+.DS_Store
+
+# Linux
+*.dSYM/
